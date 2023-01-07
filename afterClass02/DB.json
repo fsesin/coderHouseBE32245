@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Evento1",
+    "lugar": "Lugar1",
+    "precio": 4.15,
+    "capacidad": 100,
+    "fecha": "2023-01-07T00:21:55.698Z",
+    "participantes": []
+  },
+  {
+    "id": 2,
+    "nombre": "Evento2",
+    "lugar": "Lugar2",
+    "precio": 2.15,
+    "capacidad": 50,
+    "fecha": "2023-01-07T00:22:25.250Z",
+    "participantes": []
+  },
+  {
+    "id": 3,
+    "nombre": "Evento3",
+    "lugar": "Lugar3",
+    "precio": 2.15,
+    "capacidad": 50,
+    "fecha": "2023-01-07T00:22:50.985Z",
+    "participantes": []
+  },
+  {
+    "id": 4,
+    "nombre": "Evento4",
+    "lugar": "Lugar4",
+    "precio": 10.15,
+    "capacidad": 50,
+    "fecha": "2023-01-07T00:22:50.987Z",
+    "participantes": []
+  },
+  {
+    "id": 5,
+    "nombre": "Evento3",
+    "lugar": "Lugar3",
+    "precio": 2.15,
+    "capacidad": 50,
+    "fecha": "2023-01-07T00:26:00.544Z",
+    "participantes": []
+  },
+  {
+    "id": 6,
+    "nombre": "Evento4",
+    "lugar": "Lugar4",
+    "precio": 10.15,
+    "capacidad": 50,
+    "fecha": "2023-01-07T00:26:00.546Z",
+    "participantes": []
+  }
+]
